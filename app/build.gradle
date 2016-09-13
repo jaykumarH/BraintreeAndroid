@@ -24,4 +24,5 @@ dependencies {
     compile 'com.braintreepayments.api:braintree:2.+'
     compile 'com.braintreepayments.api:drop-in:2.+'
     compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
 }
