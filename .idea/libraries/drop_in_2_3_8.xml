@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="drop-in-2.3.8">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.braintreepayments.api/drop-in/2.3.8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.braintreepayments.api/drop-in/2.3.8/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.braintreepayments.api/drop-in/2.3.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/drop-in/2.3.8/cee9c3fafc254ccf6080ad29f1b76960a8f7808b/drop-in-2.3.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

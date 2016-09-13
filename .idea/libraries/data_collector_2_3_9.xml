@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="data-collector-2.3.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.3.9/71c2fb7b3e34c9370aed0b4cf1d24c84bc155094/data-collector-2.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.3.9/342f1d42840283ff9e2f8be7425634a007643b68/data-collector-2.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
